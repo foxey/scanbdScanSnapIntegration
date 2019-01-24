@@ -52,4 +52,6 @@ Reload the systemd configuration
 
 Load a document in the scanner, push the button and check your mailbox!
 
-// vim: set tw=79 ts=4 sw=4 expandtab si:
+<!--
+# vim: set tw=79 ts=4 sw=4 expandtab si:
+-->
